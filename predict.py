@@ -1,5 +1,6 @@
-from pathlib import Path
+"Runs the entire training and predciton pipeline on train.csv and test.csv placed next to this file"
 
+from pathlib import Path
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import HistGradientBoostingRegressor
