@@ -1,5 +1,5 @@
 # hours-detective
-Explored the dataset and engineered features to train a model via scikit-learn's HistGradientBoostingRegressor ensemble model to predict the hours spent on a hackclub project shipped.
+Trained a model that predicts how many hours have been spent on a project shipped to a HackClub YSWS
 
 ## Try it out
 
